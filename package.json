@@ -1,0 +1,22 @@
+{
+  "name": "facebookbot",
+  "version": "0.1.0",
+  "description": "Messenger Bot for Phone Your Rep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoneyourrep/facebookbot.git"
+  },
+  "author": "Nicolas Moise",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/phoneyourrep/facebookbot/issues"
+  },
+  "homepage": "https://github.com/phoneyourrep/facebookbot#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0"
+  }
+}
