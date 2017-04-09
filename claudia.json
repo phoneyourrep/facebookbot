@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "facebookbot-executor",
+    "name": "facebookbot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "guhk8vg251",
+    "module": "index"
+  }
+}
